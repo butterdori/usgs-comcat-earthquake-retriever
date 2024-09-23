@@ -1,5 +1,5 @@
 # usgs-comcat-earthquake-retriever
-Automates bulk retrieval of earthquake data from USGS Earthquake Catalog in accordance with the API https://earthquake.usgs.gov/fdsnws/event/1/#parameters.  
+Automates bulk retrieval of earthquake data from USGS Earthquake Catalog in accordance with the API https://earthquake.usgs.gov/fdsnws/event/1/#parameters in R.  
   
 Set parameters.  
 ```
