@@ -12,7 +12,7 @@ minlongitude <- -125
 maxlongitude <- -65
 ```
 
-Run command
+Run command.
 ```
 # Fetch all earthquake data within the specified lat/lon bounds
 all_earthquake_data <- fetch_all_data(start_date, end_date, minlatitude, maxlatitude, minlongitude, maxlongitude)
